@@ -1,0 +1,57 @@
+a.logosidebar {
+    font-size: 24px;
+    color: #f2f2f2;
+    float: left;
+    margin-top: 15px;
+}
+
+a.logosidebar b {
+    font-weight: 900;
+}
+
+a.logosidebar:hover,
+a.logosidebar:focus {
+    text-decoration: none;
+    outline: none;
+}
+
+a.logosidebar span {
+    color: #4ECDC4;
+}
+
+.btn-jarak {
+    margin-bottom: 2px;
+    margin-left: 10px;
+}
+
+@media only screen and (min-width: 300px) {
+    .th-font {
+        font-size: 12px;
+    }
+}
+
+.pull-right {
+    float: right;
+}
+
+.pull-left {
+    float: left;
+}
+
+.btn-jarak-button-detail {
+    margin: 0px 5px;
+}
+.btn-jarak-kebawah {
+    margin-bottom: 15px;
+}
+.btn-margin-right {
+    margin-right: 10px;
+}
+.jarak-logout-profile {
+    margin-top: 10px;
+    padding-left: 15px;
+    margin-bottom: 10px;
+}
+.tulisan-nama-diheader {
+    margin-top: 5px;
+}
